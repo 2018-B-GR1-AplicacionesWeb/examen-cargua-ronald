@@ -210,6 +210,7 @@ const people = [{
     message: 'Ingrese: '
 }
 ];
+inquirer.prompt(people).then()
 
 
 
