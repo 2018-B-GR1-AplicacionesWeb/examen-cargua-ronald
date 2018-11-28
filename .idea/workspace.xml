@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac790c7d-465e-4243-988d-6ab386991d43" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-667902732">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="2" />
+          <entry key="json" value="1" />
+          <entry key="md" value="1" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="2" />
+          <entry key="Markdown" value="1" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="3" />
+          <entry key="ts" value="1168" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="3" />
+          <entry key="TypeScript" value="1168" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="260">
+                <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/people.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding>
+                <element signature="e#899#1638#0" />
+                <element signature="e#1642#2422#0" />
+                <element signature="e#2426#3146#0" />
+                <element signature="e#3150#3907#0" />
+                <element signature="e#3911#4545#0" />
+                <element signature="e#4549#5187#0" />
+                <element signature="e#5191#5738#0" />
+                <element signature="e#5742#6348#0" />
+                <element signature="e#6352#7386#0" />
+                <element signature="e#7390#8252#0" />
+                <element signature="e#8256#8862#0" />
+                <element signature="e#8866#9716#0" />
+                <element signature="e#9720#10479#0" />
+                <element signature="e#10483#11030#0" />
+                <element signature="e#11034#11699#0" />
+                <element signature="e#11703#12432#0" />
+                <element signature="e#12436#13044#0" />
+                <element signature="e#13048#13751#0" />
+                <element signature="e#13755#14461#0" />
+                <element signature="e#14465#15146#0" />
+                <element signature="e#15150#15696#0" />
+                <element signature="e#15700#16246#0" />
+                <element signature="e#16250#16895#0" />
+                <element signature="e#16899#17444#0" />
+                <element signature="e#17448#18043#0" />
+                <element signature="e#18047#18606#0" />
+                <element signature="e#18610#19223#0" />
+                <element signature="e#19227#19788#0" />
+                <element signature="e#19792#20393#0" />
+                <element signature="e#20397#20997#0" />
+                <element signature="e#21001#21641#0" />
+                <element signature="e#21645#22203#0" />
+                <element signature="e#22207#22803#0" />
+                <element signature="e#22807#23363#0" />
+                <element signature="e#23367#23927#0" />
+                <element signature="e#23931#24489#0" />
+                <element signature="e#24493#25094#0" />
+                <element signature="e#25098#25655#0" />
+                <element signature="e#25659#26173#0" />
+                <element signature="e#26177#26778#0" />
+                <element signature="e#26782#27429#0" />
+                <element signature="e#27433#27992#0" />
+                <element signature="e#27996#28629#0" />
+                <element signature="e#28633#29191#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!block;n#buscarProductoPorNombre#0" />
+                <element signature="n#!!block;n#buscarGenero#1" />
+                <element signature="n#!!block;n#buscarGenero#2" />
+                <element signature="n#!!block;n#buscarGenero#1" />
+                <element signature="e#4344#4437#0" />
+                <element signature="e#4477#4537#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen01.js" />
+        <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
+              <item name="01-arreglos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
+              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="Examen.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Users\Ronald\AppData\Local\JetBrains\Toolbox\apps\WebStorm\ch-0\182.4323.44\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Examen01.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Examen01.js" working-dir="$PROJECT_DIR$/2018-b-prueba-master/data">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Examen01.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac790c7d-465e-4243-988d-6ab386991d43" name="Default Changelist" comment="" />
+      <created>1543415250190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543415250190</updated>
+      <workItem from="1543415257821" duration="5406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5406000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" weight="0.19141914" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" selection-start-line="15" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!block;n#buscarGenero#0" />
+            <element signature="n#!!block;n#buscarEye#0" />
+            <element signature="n#!!block;n#buscarSkin#0" />
+            <element signature="n#!!block;n#buscarHair#0" />
+            <element signature="e#4229#4322#0" />
+            <element signature="e#4362#4422#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/people.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#899#1638#0" />
+            <element signature="e#1642#2422#0" />
+            <element signature="e#2426#3146#0" />
+            <element signature="e#3150#3907#0" />
+            <element signature="e#3911#4545#0" />
+            <element signature="e#4549#5187#0" />
+            <element signature="e#5191#5738#0" />
+            <element signature="e#5742#6348#0" />
+            <element signature="e#6352#7386#0" />
+            <element signature="e#7390#8252#0" />
+            <element signature="e#8256#8862#0" />
+            <element signature="e#8866#9716#0" />
+            <element signature="e#9720#10479#0" />
+            <element signature="e#10483#11030#0" />
+            <element signature="e#11034#11699#0" />
+            <element signature="e#11703#12432#0" />
+            <element signature="e#12436#13044#0" />
+            <element signature="e#13048#13751#0" />
+            <element signature="e#13755#14461#0" />
+            <element signature="e#14465#15146#0" />
+            <element signature="e#15150#15696#0" />
+            <element signature="e#15700#16246#0" />
+            <element signature="e#16250#16895#0" />
+            <element signature="e#16899#17444#0" />
+            <element signature="e#17448#18043#0" />
+            <element signature="e#18047#18606#0" />
+            <element signature="e#18610#19223#0" />
+            <element signature="e#19227#19788#0" />
+            <element signature="e#19792#20393#0" />
+            <element signature="e#20397#20997#0" />
+            <element signature="e#21001#21641#0" />
+            <element signature="e#21645#22203#0" />
+            <element signature="e#22207#22803#0" />
+            <element signature="e#22807#23363#0" />
+            <element signature="e#23367#23927#0" />
+            <element signature="e#23931#24489#0" />
+            <element signature="e#24493#25094#0" />
+            <element signature="e#25098#25655#0" />
+            <element signature="e#25659#26173#0" />
+            <element signature="e#26177#26778#0" />
+            <element signature="e#26782#27429#0" />
+            <element signature="e#27433#27992#0" />
+            <element signature="e#27996#28629#0" />
+            <element signature="e#28633#29191#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="260">
+            <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="148" column="16" lean-forward="true" selection-start-line="148" selection-start-column="16" selection-end-line="148" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!block;n#buscarProductoPorNombre#0" />
+            <element signature="n#!!block;n#buscarGenero#1" />
+            <element signature="n#!!block;n#buscarGenero#2" />
+            <element signature="n#!!block;n#buscarGenero#1" />
+            <element signature="e#4344#4437#0" />
+            <element signature="e#4477#4537#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
