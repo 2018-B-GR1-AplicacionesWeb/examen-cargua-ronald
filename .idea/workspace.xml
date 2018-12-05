@@ -15,8 +15,11 @@
     <session id="-667902732">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -25,7 +28,7 @@
           <entry key="js" value="2" />
           <entry key="json" value="1" />
           <entry key="md" value="1" />
-          <entry key="ts" value="1" />
+          <entry key="ts" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -34,37 +37,37 @@
           <entry key="JavaScript" value="2" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="TypeScript" value="1" />
+          <entry key="TypeScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="16" />
           <entry key="js" value="3" />
-          <entry key="ts" value="1206" />
+          <entry key="ts" value="2127" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="16" />
-          <entry key="TypeScript" value="1206" />
+          <entry key="TypeScript" value="2127" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="260">
+              <first_editor relative-caret-position="1430">
                 <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
               </first_editor>
               <second_editor />
@@ -75,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/people.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state relative-caret-position="208">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding>
                 <element signature="e#899#1638#0" />
                 <element signature="e#1642#2422#0" />
@@ -127,19 +130,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="212" selection-start-line="212" selection-end-line="212" />
+            <state relative-caret-position="-5129">
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/CorreccioExamen.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="65" column="47" lean-forward="true" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
               <folding>
-                <element signature="n#!!block;n#buscarProductoPorNombre#0" />
-                <element signature="n#!!block;n#buscarGenero#1" />
-                <element signature="n#!!block;n#buscarGenero#2" />
-                <element signature="n#!!block;n#buscarGenero#1" />
-                <element signature="e#4344#4437#0" />
-                <element signature="e#4477#4537#0" />
-                <element signature="e#4566#4590#0" />
+                <element signature="e#944#952#0" />
+                <element signature="n#!!block;n#Character#0" />
               </folding>
             </state>
           </provider>
@@ -149,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -159,8 +166,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="JavaScript File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -173,6 +180,7 @@
         <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen01.js" />
         <option value="$PROJECT_DIR$/2018-b-prueba-master/data/.gitignore" />
         <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts" />
+        <option value="$PROJECT_DIR$/2018-b-prueba-master/data/CorreccioExamen.ts" />
       </list>
     </option>
   </component>
@@ -181,6 +189,22 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/ajax/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/operators/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/src/ajax/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/src/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/src/operators/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/src/testing/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/src/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/testing/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/rxjs/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/2018-b-prueba-master/data/node_modules/tslib/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
@@ -210,20 +234,7 @@
               <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
               <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
               <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
-              <item name="01-arreglos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
-              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="examen-cargua-ronald" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examen-cargua-ronald" type="462c0819:PsiDirectoryNode" />
-              <item name="2018-b-prueba-master" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="Examen.ts" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
@@ -270,25 +281,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543415250190</updated>
-      <workItem from="1543415257821" duration="5681000" />
+      <workItem from="1543415257821" duration="5828000" />
+      <workItem from="1543518881856" duration="64000" />
+      <workItem from="1543846004077" duration="4718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5681000" />
+    <option name="totallyTimeSpent" value="10610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25435275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="TypeScript" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.19141914" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
@@ -296,9 +303,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Terminal" order="3" weight="0.3686601" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,6 +318,7 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/2018-b-prueba-master/data/Examen.js" />
+        <option value="$PROJECT_DIR$/2018-b-prueba-master/data/CorreccioExamen.js" />
       </list>
     </option>
   </component>
@@ -320,25 +333,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen01.js">
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen01.js" />
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1430">
+            <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!block;n#buscarGenero#0" />
-            <element signature="n#!!block;n#buscarEye#0" />
-            <element signature="n#!!block;n#buscarSkin#0" />
-            <element signature="n#!!block;n#buscarHair#0" />
-            <element signature="e#4229#4322#0" />
-            <element signature="e#4362#4422#0" />
-          </folding>
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/people.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        <state relative-caret-position="208">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
           <folding>
             <element signature="e#899#1638#0" />
             <element signature="e#1642#2422#0" />
@@ -388,35 +404,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/01-arreglos/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="260">
-            <caret line="55" column="10" selection-start-line="55" selection-start-column="10" selection-end-line="55" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/Examen.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        <state relative-caret-position="-5129">
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-b-prueba-master/data/CorreccioExamen.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="65" column="47" lean-forward="true" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
           <folding>
-            <element signature="n#!!block;n#buscarProductoPorNombre#0" />
-            <element signature="n#!!block;n#buscarGenero#1" />
-            <element signature="n#!!block;n#buscarGenero#2" />
-            <element signature="n#!!block;n#buscarGenero#1" />
-            <element signature="e#4344#4437#0" />
-            <element signature="e#4477#4537#0" />
-            <element signature="e#4566#4590#0" />
+            <element signature="e#944#952#0" />
+            <element signature="n#!!block;n#Character#0" />
           </folding>
         </state>
       </provider>
